@@ -9,7 +9,7 @@
   "author": "ahmadk953",
   "license": "Apache-2.0",
   "dependencies": {
-    "ejs": "^5.0.1",
+    "ejs": "^5.0.2",
     "express": "^5.2.1",
     "js": "^0.1.0",
     "validator": "^13.15.35",
